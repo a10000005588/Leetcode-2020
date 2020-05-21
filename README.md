@@ -2,7 +2,6 @@
 
 這個專案主要存放我練習Leetcode有針對難度分類的集合題庫(Collection Question)
 以及模擬面試(Mock interview)的程式碼
-偶爾也會放一些跟java開發相關的code在Other目錄
 
 ```
 該Readme會與hackmd上的筆記進行同步
@@ -16,6 +15,14 @@ https://hackmd.io/G_mtZGV6R7KnMZ2hv4D5Hg
 ### 準備方式：
 
 ## 各類別題目筆記
+
+### Tree  
+[Tree筆記連結](https://hackmd.io/981zGlR5SV-hlPP7ibxj2A)
+
+* Binary Search Tree
+    * [230. Kth Smallest Element in a BST (easy)](https://hackmd.io/981zGlR5SV-hlPP7ibxj2A)
+
+
 
 
 ### Mock Interview

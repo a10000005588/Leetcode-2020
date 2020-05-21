@@ -1,5 +1,7 @@
 # 230. Kth Smallest Element in a BST
 
+> (2020/05/20) 一刷
+
 https://leetcode.com/problems/kth-smallest-element-in-a-bst/
 
 給一個二元搜尋樹, 寫一個function來找到第kth小的元素
@@ -37,7 +39,7 @@ Output: 3
 
 
 
-## Code
+## Java Code
 
 ```java=
 /**
@@ -82,3 +84,4 @@ public class Solution {
     }
 }
 ```
+

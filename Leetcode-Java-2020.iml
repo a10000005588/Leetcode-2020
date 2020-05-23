@@ -6,6 +6,9 @@
       <sourceFolder url="file://$MODULE_DIR$/Tree/230_Kth_Smallest_Element_in_a_BST" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Tree/230_Kth_Smallest_Element_in_a_BST/src/main" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Tree/230_Kth_Smallest_Element_in_a_BST/src/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Array/1277_Count_Square_Submatrices_with_All_Ones/src/main" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Array/1277_Count_Square_Submatrices_with_All_Ones/src/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Array/1277_Count_Square_Submatrices_with_All_Ones" isTestSource="false" />
     </content>
     <orderEntry type="jdk" jdkName="1.8" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />

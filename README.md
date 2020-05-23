@@ -17,12 +17,17 @@ https://hackmd.io/G_mtZGV6R7KnMZ2hv4D5Hg
 ## 各類別題目筆記
 
 ### Tree  
-[Tree筆記連結](https://hackmd.io/981zGlR5SV-hlPP7ibxj2A)
 
-* Binary Search Tree
-    * [230. Kth Smallest Element in a BST (easy)](https://hackmd.io/981zGlR5SV-hlPP7ibxj2A)
+#### Binary Search Tree
 
+[BST學習筆記](https://hackmd.io/zkKJ5BnGTbOf4ZNKgdHvXQ)
 
+* [230. Kth Smallest Element in a BST (easy)](https://hackmd.io/981zGlR5SV-hlPP7ibxj2A)
+
+### Dynamic Programming
+
+* [1277. Count Square Submatrices with All Ones (medium)
+](https://hackmd.io/VEwIG0mwRBu8eEnt-Y-mnw)
 
 
 ### Mock Interview

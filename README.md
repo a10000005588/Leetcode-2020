@@ -33,6 +33,9 @@ https://hackmd.io/G_mtZGV6R7KnMZ2hv4D5Hg
 
 * [986. Interval List Intersections (medium)](https://hackmd.io/9IUtLR9JRyWkCODK8UGY2g)
 
+### Hash Table
+
+* [451. Sort Characters By Frequency (medium)](https://hackmd.io/orIIXEBrSuuzfk0w-vfo6w)
 ### Mock Interview
 
 會隨機挑選各大外商公司曾經面試過的程式題目進行有時限的測驗

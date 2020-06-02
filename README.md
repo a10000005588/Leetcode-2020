@@ -16,6 +16,10 @@ https://hackmd.io/G_mtZGV6R7KnMZ2hv4D5Hg
 
 ## 各類別題目筆記
 
+### LinedList
+
+* [237. Delete Node in a Linked List (easy)](https://hackmd.io/-aoHxnY-S7mdNJDj81M23g)
+
 ### Sort
 
 * [973. K Closest Points to Origin (medium)](https://hackmd.io/pCRjB12MSXOsGpHilfV8-g)

@@ -36,6 +36,10 @@ https://hackmd.io/G_mtZGV6R7KnMZ2hv4D5Hg
 
 * [230. Kth Smallest Element in a BST (easy)](https://hackmd.io/981zGlR5SV-hlPP7ibxj2A)
 
+### Greedy
+
+* [1029. Two City Scheduling](https://hackmd.io/7cDVe12sSgOWkJLvSTJlww)
+
 ### Dynamic Programming
 
 * [1277. Count Square Submatrices with All Ones (medium)

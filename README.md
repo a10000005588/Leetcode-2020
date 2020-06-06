@@ -16,6 +16,10 @@ https://hackmd.io/G_mtZGV6R7KnMZ2hv4D5Hg
 
 ## 各類別題目筆記
 
+### Search
+
+* [528. Random Pick with Weight](https://hackmd.io/r-7tWxAATWGHJlXPfsJ02Q)
+
 ### LinedList
 
 * [237. Delete Node in a Linked List (easy)](https://hackmd.io/-aoHxnY-S7mdNJDj81M23g)
@@ -32,9 +36,11 @@ https://hackmd.io/G_mtZGV6R7KnMZ2hv4D5Hg
 
 #### Binary Search Tree
 
-[BST學習筆記](https://hackmd.io/zkKJ5BnGTbOf4ZNKgdHvXQ)
-
 * [230. Kth Smallest Element in a BST (easy)](https://hackmd.io/981zGlR5SV-hlPP7ibxj2A)
+
+#### 學習筆記
+
+[BST學習筆記](https://hackmd.io/zkKJ5BnGTbOf4ZNKgdHvXQ)
 
 ### Greedy
 

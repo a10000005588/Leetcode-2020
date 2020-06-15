@@ -28,7 +28,7 @@ https://hackmd.io/G_mtZGV6R7KnMZ2hv4D5Hg
 
 * [973. K Closest Points to Origin (medium)](https://hackmd.io/pCRjB12MSXOsGpHilfV8-g)
 
-### Tree  
+### Tree
 
 #### Binary Tree
 
@@ -43,6 +43,8 @@ https://hackmd.io/G_mtZGV6R7KnMZ2hv4D5Hg
 [BST學習筆記](https://hackmd.io/zkKJ5BnGTbOf4ZNKgdHvXQ)
 
 ### Greedy
+
+* [406. Queue Reconstruction by Height](https://hackmd.io/U8p50UAMQ7ijIld1k4AzBw)
 
 * [1029. Two City Scheduling](https://hackmd.io/7cDVe12sSgOWkJLvSTJlww)
 

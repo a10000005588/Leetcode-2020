@@ -16,14 +16,21 @@ https://hackmd.io/G_mtZGV6R7KnMZ2hv4D5Hg
 
 ## 各類別題目筆記
 
+### Array
+
+* [509. Fibonacci Number (easy)](https://leetcode.com/problems/fibonacci-number/)
+
+* [1480. Running Sum of 1d Array (easy)](https://hackmd.io/XWG_PxnrQOy_WJUf5MJ0eQ)
+
 ### Search
 
-* [528. Random Pick with Weight](https://hackmd.io/r-7tWxAATWGHJlXPfsJ02Q)
+* [528. Random Pick with Weight (medium)](https://hackmd.io/r-7tWxAATWGHJlXPfsJ02Q)
 
 ### LinedList
 
 * [237. Delete Node in a Linked List (easy)](https://hackmd.io/-aoHxnY-S7mdNJDj81M23g)
 
+* [707. Design Linked List (medium)](https://hackmd.io/UMlzTY1HRlGye5hTphdadw)
 ### Sort
 
 * [973. K Closest Points to Origin (medium)](https://hackmd.io/pCRjB12MSXOsGpHilfV8-g)
@@ -44,9 +51,9 @@ https://hackmd.io/G_mtZGV6R7KnMZ2hv4D5Hg
 
 ### Greedy
 
-* [406. Queue Reconstruction by Height](https://hackmd.io/U8p50UAMQ7ijIld1k4AzBw)
+* [406. Queue Reconstruction by Height (medium)](https://hackmd.io/U8p50UAMQ7ijIld1k4AzBw)
 
-* [1029. Two City Scheduling](https://hackmd.io/7cDVe12sSgOWkJLvSTJlww)
+* [1029. Two City Scheduling (medium)](https://hackmd.io/7cDVe12sSgOWkJLvSTJlww)
 
 ### Dynamic Programming
 
@@ -55,13 +62,18 @@ https://hackmd.io/G_mtZGV6R7KnMZ2hv4D5Hg
 
 ### Two Pointers
 
-* [344. Reverse String](https://hackmd.io/r-7tWxAATWGHJlXPfsJ02Q)
+* [344. Reverse String (easy)](https://hackmd.io/r-7tWxAATWGHJlXPfsJ02Q)
 
 * [986. Interval List Intersections (medium)](https://hackmd.io/9IUtLR9JRyWkCODK8UGY2g)
 
 ### Hash Table
 
 * [451. Sort Characters By Frequency (medium)](https://hackmd.io/orIIXEBrSuuzfk0w-vfo6w)
+
+### Bit Manipulation
+
+* [137. Single Number II (medium)](https://leetcode.com/problems/single-number-ii/)
+
 ### Mock Interview
 
 會隨機挑選各大外商公司曾經面試過的程式題目進行有時限的測驗

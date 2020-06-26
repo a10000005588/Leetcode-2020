@@ -22,7 +22,7 @@ https://hackmd.io/G_mtZGV6R7KnMZ2hv4D5Hg
 
 * [509. Fibonacci Number (easy)](https://leetcode.com/problems/fibonacci-number/)
 
-* [1464. Maximum Product of Two Elements in an Array](https://hackmd.io/2GaN6YHMR12YZAiw9bBmfg)
+* [1464. Maximum Product of Two Elements in an Array (easy)](https://hackmd.io/2GaN6YHMR12YZAiw9bBmfg)
 
 * [1480. Running Sum of 1d Array (easy)](https://hackmd.io/XWG_PxnrQOy_WJUf5MJ0eQ)
 
@@ -40,6 +40,10 @@ https://hackmd.io/G_mtZGV6R7KnMZ2hv4D5Hg
 * [973. K Closest Points to Origin (medium)](https://hackmd.io/pCRjB12MSXOsGpHilfV8-g)
 
 ### Tree
+
+#### Depth First Search
+
+* [129. Sum Root to Leaf Numbers (medium)]()
 
 #### Binary Tree
 

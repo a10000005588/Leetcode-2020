@@ -65,6 +65,8 @@ https://hackmd.io/G_mtZGV6R7KnMZ2hv4D5Hg
 
 ### Dynamic Programming
 
+* [62. Unique Path (medium)](https://hackmd.io/bwYEpumkQRmFNHZbitGkBA)
+
 * [1277. Count Square Submatrices with All Ones (medium)
 ](https://hackmd.io/VEwIG0mwRBu8eEnt-Y-mnw)
 

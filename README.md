@@ -18,6 +18,8 @@ https://hackmd.io/G_mtZGV6R7KnMZ2hv4D5Hg
 
 ### Array
 
+* [66. Plus One (easy)](https://hackmd.io/9AdJtNsmS2qvi6P4oidPkg)
+
 * [287. Find the Duplicate Number (medium)](https://hackmd.io/OwxRrjjmTt2hNmA1lx-IEg)
 
 * [509. Fibonacci Number (easy)](https://leetcode.com/problems/fibonacci-number/)
@@ -27,6 +29,8 @@ https://hackmd.io/G_mtZGV6R7KnMZ2hv4D5Hg
 * [1480. Running Sum of 1d Array (easy)](https://hackmd.io/XWG_PxnrQOy_WJUf5MJ0eQ)
 
 ### Search
+
+* [441. Arranging Coins (easy)](https://leetcode.com/problems/arranging-coins/)
 
 * [528. Random Pick with Weight (medium)](https://hackmd.io/r-7tWxAATWGHJlXPfsJ02Q)
 

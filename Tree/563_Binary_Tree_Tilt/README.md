@@ -27,7 +27,9 @@ All the tilt values won't exceed the range of 32-bit integer.
 
 ## 我的作法 (failed)
 
-### 5/26 一刷
+### Java
+
+#### 5/26 一刷
 
 > 花了大概2小時...
 
@@ -68,7 +70,7 @@ class Solution {
 }
 ```
 
-### 5/27 二刷
+#### 5/27 二刷
 
 > 5分鐘
 
@@ -97,7 +99,7 @@ class Solution {
 }
 ```
 
-### 5/30 三刷
+#### 5/30 三刷
 
 > 大概15分鐘...
 
@@ -147,7 +149,7 @@ class Solution {
 以此類推...
 
 
-### Code
+### Java
 
 ```java=
 class Solution {

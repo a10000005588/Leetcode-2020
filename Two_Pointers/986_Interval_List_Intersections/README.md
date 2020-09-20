@@ -38,7 +38,7 @@ Note:
 在用loop去對照B與trace[]內是否有重複的地方, 若有的話就記錄到list內
 最後回傳list內所有的值
 
-### Code 
+### Java 
 
 Submission Detail
 

@@ -39,7 +39,7 @@ At most 2000 calls will be made to get, addAtHead, addAtTail,  addAtIndex and de
 
 原本是先打算用 head, tail來實作, 但有遇到fail的情況
 
-### code
+### Java
 
 ```java=
 class MyLinkedList {
@@ -217,7 +217,7 @@ https://leetcode.com/problems/design-linked-list/discuss/213901/Simple-Java-solu
 
 不過要注意的是這篇參考解答沒有處理 deleteAtIndex(0)的情況
 
-### code
+### Java
 
 ```java=
 class MyLinkedList {

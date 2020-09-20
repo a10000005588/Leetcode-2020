@@ -25,7 +25,7 @@ Explanation: The array represents the integer 4321.
 
 如果一直沒有的話，那就新增一個比digits長1的array, 在最大位數newArray[0] = 1, 回傳結果
 
-### code
+### Java
 
 > 7/6 一刷
 ```java=

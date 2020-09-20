@@ -22,9 +22,9 @@ Output: ["h","a","n","n","a","H"]
 
 就for loop到一半, 將i與第char[] array的i.length - 1對調
 
-### code
+### Java
 
-> 6/4 一刷
+#### 6/4 一刷
 
 ```java=
 class Solution {

@@ -31,7 +31,7 @@ Output: 28
 ![](https://i.imgur.com/aAF4MeD.jpg)
 
 
-### code
+### Java
 
 > 花了半小時想 + coding
 > 
@@ -89,7 +89,7 @@ Last executed input:
 ![](https://i.imgur.com/bhZEXEH.jpg)
 
 
-### code 
+### Java 
 
 > 大概花了1小時想+coding
 

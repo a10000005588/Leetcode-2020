@@ -50,7 +50,8 @@ Note that 'A' and 'a' are treated as two different characters.
 
 根據集合來組成最後答案
 
-### Code
+### Java
+
 > 大概花了40分
 
 ```java=

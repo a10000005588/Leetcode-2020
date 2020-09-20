@@ -37,7 +37,7 @@ Constraints:
 
 用個curTotal, 紀錄目前總和為多少
 
-### code
+### Java
 
 ```java=
 class Solution {

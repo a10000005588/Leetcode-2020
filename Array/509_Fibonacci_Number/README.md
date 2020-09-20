@@ -44,7 +44,7 @@ Note:
 
 使用遞迴
 
-#### code
+#### Java
 
 ```java=
 class Solution {
@@ -70,7 +70,7 @@ Memory Usage: 36.5 MB
 
 ![](https://i.imgur.com/0pf5s9w.png)
 
-#### code
+#### Java
 
 ```java=
 class Solution {
@@ -111,7 +111,7 @@ Memory Usage: 36.5 MB, less than 23.55% of Java online submissions for Fibonacci
 
 將計算過的 F(N) 給記錄在array內
 
-#### code
+#### Java
 
 ```java=
 class Solution {

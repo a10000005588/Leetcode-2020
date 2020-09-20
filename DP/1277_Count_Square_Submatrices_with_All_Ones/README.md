@@ -95,7 +95,7 @@ Constraints:
 
 以此類推
 
-### code
+### Java
 
 Time Complexity: O(n^4) .
 
@@ -218,7 +218,7 @@ Time Complexity為 O(m*n)
 
 ![](https://i.imgur.com/hYAw9J2.png)
 
-### code
+### Java
 
 ```java=
 class ReferenceSolution {

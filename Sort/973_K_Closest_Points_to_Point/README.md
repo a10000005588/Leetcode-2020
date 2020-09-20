@@ -34,15 +34,15 @@ Note:
 
 ## 我的作法
 
-> 5/31 一刷
-
 先建立一個array, 紀錄各個point的長度
 
 在排序該array, 取得array中第k-1個array的值. 當作標準
 
 然後在loop原本的array, 若小於標準則納入答案, 因為題目確定每一個point的Euclidean值都不會重複
 
-### Code
+### Java
+
+#### 5/31 一刷
 
 ```java
 class Solution {
@@ -77,5 +77,3 @@ class Solution {
     }
 }
 ```
-
-

@@ -36,7 +36,7 @@ It is guaranteed that costs.length is even.
 如果某city已經滿了, 那剩下的人就分配到另外一個city.
 
 
-### Code
+### Java
 
 > 6/3號一刷, 大概花了3小時... (工作看了一整天code, 又在晚上思考leetcode如何解效率會有點差)
 

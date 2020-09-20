@@ -33,8 +33,7 @@ There is only one duplicate number in the array, but it could be repeated more t
 * 若存在就是答案了
 
 
-
-### code
+### Java
 
 ```java=
 class Solution {

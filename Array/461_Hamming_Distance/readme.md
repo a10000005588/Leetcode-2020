@@ -39,9 +39,11 @@ The above arrows point to positions where the corresponding bits are different.
 
 
 
-### code 
+### Java 
 
-> 1刷 30分
+#### 7/26 1刷 
+
+> 約30分
 
 ```java=
 class Solution {

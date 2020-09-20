@@ -55,6 +55,8 @@ territory = [0,1,1,1,2,2]
 
 但再跑測資會有 `memory limit exceeded `的狀況
 
+#### Java
+
 ```java=
 class Solution {
     int totalWeight = 0;
@@ -96,7 +98,7 @@ Last executed input:
 ["Solution", "pickIndex", "pickIndex", "pickIndex", "pickIndex", "pickIndex", "pickIndex", "pickIndex", "
 ```
 
-### 參考做法
+## 參考做法
 
 影片的解答
 
@@ -112,6 +114,8 @@ pickIndex() 會隨機產生 0~7的值 (因為weight總和為7, 在看"值"會落
 
 ![](https://i.imgur.com/qd6RcYy.png)
 
+
+### Java
 
 ```java=
 class Solution {

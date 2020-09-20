@@ -39,7 +39,7 @@ Output:
 可以看到 [5,2]需要與[4,4]交換, 因為[4,4] 前面有5個people的height大於它, 但他的k是4
 
 
-### code
+### Java
 
 > 大概做了2個晚上的時間, 不過還是有問題
 
@@ -195,7 +195,7 @@ Expected:
 
 以此類推...
 
-### code
+### Java
 
 ```java=
 class Solution {

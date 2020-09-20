@@ -33,13 +33,11 @@ Input: root = [5,3,6,2,4,null,null,1], k = 3
 Output: 3
 ```
 
-## 我的作法:
+## 我的作法
 
 知道BST的一個特性: 用in order traversal走訪該樹就可以得到從小到大的排序
 
-
-
-## Java Code
+## Java
 
 ```java=
 /**

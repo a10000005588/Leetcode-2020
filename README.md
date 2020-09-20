@@ -1,4 +1,4 @@
-# Leetcode 使用Java練習記錄
+# Leetcode 練習記錄
 
 這個專案主要存放我練習Leetcode有針對難度分類的集合題庫(Collection Question)
 以及模擬面試(Mock interview)的程式碼
@@ -71,8 +71,7 @@ https://hackmd.io/G_mtZGV6R7KnMZ2hv4D5Hg
 
 * [62. Unique Path (medium)](https://hackmd.io/bwYEpumkQRmFNHZbitGkBA)
 
-* [1277. Count Square Submatrices with All Ones (medium)
-](https://hackmd.io/VEwIG0mwRBu8eEnt-Y-mnw)
+* [1277. Count Square Submatrices with All Ones (medium)](https://hackmd.io/VEwIG0mwRBu8eEnt-Y-mnw)
 
 ### Two Pointers
 

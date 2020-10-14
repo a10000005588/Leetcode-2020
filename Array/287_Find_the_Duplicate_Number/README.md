@@ -20,7 +20,7 @@ Your runtime complexity should be less than O(n2).
 There is only one duplicate number in the array, but it could be repeated more than once.
 
 
-## 我的作法
+## 我的作法 (1)
 
 > 6/25一刷 約花20分鐘
 
@@ -73,3 +73,30 @@ Runtime: 548 ms
 Memory Usage: 39.2 MB
 ```
 
+## 我的作法 (2)
+
+用一個vector儲存已經找過的數字，
+再用for loop找看看該數字有沒有在vector內，有的話便是答案
+
+### C++
+
+```cpp=
+class Solution {
+public:
+    int findDuplicate(vector<int>& nums) {
+        vector<int> container;
+        
+        for (int num: nums) {
+          // check whether the nums is exist in container
+          for (int element: container) {
+            if (num == element) {
+              return num;
+            }
+          }
+
+          container.push_back(num);
+        }
+        return 0;
+    }
+};
+```

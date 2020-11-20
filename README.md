@@ -87,12 +87,25 @@ https://hackmd.io/G_mtZGV6R7KnMZ2hv4D5Hg
 
 * [137. Single Number II (medium)](https://leetcode.com/problems/single-number-ii/)
 
-### Mock Interview
+### Math
 
-會隨機挑選各大外商公司曾經面試過的程式題目進行有時限的測驗
+* [858. Mirror Reflection (medium)]
 
-Mock interview的網站:
-https://leetcode.com/interview/
+## 如何高效率刷Leetcode
+
+再ptt上看到[神人-安妮](https://www.youtube.com/watch?v=fyf-GRH1Ceo&feature=emb_title)，透過高效率再全職工作下，1個半月內刷了300多題的Leetcode
+
+Tips:
+* 養成找edge case及time complexity的習慣
+* 先把時間花在想題目身上，而不是寫code
+  * 思考步驟
+    1. 有哪些edge case
+    2. 採用的方法time & space complexity是什麼？
+* 注重在medium的題目
+  * 會了medium的題目，基本上easy也可以迎刃而解
+* 一題不要卡太久
+  * 可以參考別人的解法，不要看別人的code
+* 每個題目只要有一個不差的解法，就可以通過了
 
 ## 參考網站
 
@@ -105,3 +118,6 @@ https://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions
 dingjikerbo/Leetcode-Java: 一位大陸牛人在Github上做Leetcode的紀錄
 
 https://github.com/dingjikerbo/Leetcode-Java/blob/master/doc/Attention.md
+
+Mock interview的網站:
+https://leetcode.com/interview/

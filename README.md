@@ -89,7 +89,7 @@ https://hackmd.io/G_mtZGV6R7KnMZ2hv4D5Hg
 
 ### Math
 
-* [858. Mirror Reflection (medium)]
+* [858. Mirror Reflection (medium)]()
 
 ## 如何高效率刷Leetcode
 

@@ -93,7 +93,7 @@ https://hackmd.io/G_mtZGV6R7KnMZ2hv4D5Hg
 
 ## 如何高效率刷Leetcode
 
-再ptt上看到[神人-安妮](https://www.youtube.com/watch?v=fyf-GRH1Ceo&feature=emb_title)，透過高效率再全職工作下，1個半月內刷了300多題的Leetcode
+再ptt上看到神人分享如何準備刷Leetcode找工作，[8個偷吃步教你如何高效率的刷leetcode by 安妮](https://www.youtube.com/watch?v=fyf-GRH1Ceo&feature=emb_title)，如何在有全職工作的情況下，1個半月內刷了300多題的Leetcode
 
 Tips:
 * 養成找edge case及time complexity的習慣

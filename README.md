@@ -18,8 +18,8 @@
 | 66    | Plus One                                    | easy   | [link](https://github.com/a10000005588/Leetcode-2020/tree/master/Array/66_Plus_One) |     | O    |    |
 | 287   | Find the Duplicate Number                   | medium | [link](https://github.com/a10000005588/Leetcode-2020/tree/master/Array/287_Find_the_Duplicate_Number) |  O   | O    |    |
 | 509   | Fibonacci Number                            | easy   | [link](https://github.com/a10000005588/Leetcode-2020/tree/master/Array/509_Fibonacci_Number) |     | O    |    |
-| 724   | Find Pivot Index                            | easy   | [link](https://github.com/a10000005588/Leetcode-2020/tree/master/Array/1464_Maximum_Product_of_Two_Elements_in_an_array) | O   |      |    |
-| 1464  | Maximum Product of Two Elements in an Array | easy   | [link](https://github.com/a10000005588/Leetcode-2020/tree/master/Array/724_Find_Pivot_Index) |     | O    |    |
+| 724   | Find Pivot Index                            | easy   | [link](https://github.com/a10000005588/Leetcode-2020/tree/master/Array/724_Find_Pivot_Index) | O   |      |    |
+| 1464  | Maximum Product of Two Elements in an Array | easy   | [link](https://github.com/a10000005588/Leetcode-2020/tree/master/Array/1464_Maximum_Product_of_Two_Elements_in_an_array) |     | O    |    |
 | 1480  | Running Sum of 1d Array                     | easy   | [link](https://github.com/a10000005588/Leetcode-2020/tree/master/Array/1480_Running_Sum_of_1D_Array) |     | O    |    |
 
 ### Search

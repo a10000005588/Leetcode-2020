@@ -3,11 +3,6 @@
 這個專案主要存放我練習Leetcode有針對難度分類的集合題庫(Collection Question)
 以及模擬面試(Mock interview)的程式碼
 
-```
-該Readme會與hackmd上的筆記進行同步
-https://hackmd.io/G_mtZGV6R7KnMZ2hv4D5Hg
-```
-
 ## 準備方式
 
 看了[知乎](https://www.zhihu.com/question/26580300)上面牛人們解題的策略，先分析tag的熱門標籤，熟悉各個標籤解題的思路(解決該標籤全部的easy和medium為主)，再根據各個標籤建立hackmd筆記，紀錄自己解決的過程。
@@ -18,15 +13,14 @@ https://hackmd.io/G_mtZGV6R7KnMZ2hv4D5Hg
 
 ### Array
 
-* [66. Plus One (easy)](https://hackmd.io/9AdJtNsmS2qvi6P4oidPkg)
-
-* [287. Find the Duplicate Number (medium)](https://hackmd.io/OwxRrjjmTt2hNmA1lx-IEg)
-
-* [509. Fibonacci Number (easy)](https://leetcode.com/problems/fibonacci-number/)
-
-* [1464. Maximum Product of Two Elements in an Array (easy)](https://hackmd.io/2GaN6YHMR12YZAiw9bBmfg)
-
-* [1480. Running Sum of 1d Array (easy)](https://hackmd.io/XWG_PxnrQOy_WJUf5MJ0eQ)
+| Index | Question Name                               | Type   | Note | C++ | Java | Go |
+|-------|---------------------------------------------|--------|------|-----|------|----|
+| 66    | Plus One                                    | easy   | [link](https://github.com/a10000005588/Leetcode-2020/tree/master/Array/66_Plus_One) |     | O    |    |
+| 287   | Find the Duplicate Number                   | medium | [link](https://github.com/a10000005588/Leetcode-2020/tree/master/Array/287_Find_the_Duplicate_Number) |  O   | O    |    |
+| 509   | Fibonacci Number                            | easy   | [link](https://github.com/a10000005588/Leetcode-2020/tree/master/Array/509_Fibonacci_Number) |     | O    |    |
+| 724   | Find Pivot Index                            | easy   | [link](https://github.com/a10000005588/Leetcode-2020/tree/master/Array/1464_Maximum_Product_of_Two_Elements_in_an_array) | O   |      |    |
+| 1464  | Maximum Product of Two Elements in an Array | easy   | [link](https://github.com/a10000005588/Leetcode-2020/tree/master/Array/724_Find_Pivot_Index) |     | O    |    |
+| 1480  | Running Sum of 1d Array                     | easy   | [link](https://github.com/a10000005588/Leetcode-2020/tree/master/Array/1480_Running_Sum_of_1D_Array) |     | O    |    |
 
 ### Search
 

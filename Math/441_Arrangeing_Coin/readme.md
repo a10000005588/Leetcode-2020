@@ -1,70 +1,62 @@
-# 66. Plus One (easy)
+# 441. Arranging Coins (easy)
 
-Given a non-empty array of digits representing a non-negative integer, plus one to the integer.
+You have a total of n coins that you want to form in a staircase shape, where every k-th row must have exactly k coins.
 
-The digits are stored such that the most significant digit is at the head of the list, and each element in the array contain a single digit.
+Given n, find the total number of full staircase rows that can be formed.
 
-You may assume the integer does not contain any leading zero, except the number 0 itself.
+n is a non-negative integer and fits within the range of a 32-bit signed integer.
 
 Example 1:
 ```
-Input: [1,2,3]
-Output: [1,2,4]
-Explanation: The array represents the integer 123.
+n = 5
+
+The coins can form the following rows:
+¤
+¤ ¤
+¤ ¤
+
+Because the 3rd row is incomplete, we return 2.
 ```
 Example 2:
 ```
-Input: [4,3,2,1]
-Output: [4,3,2,2]
-Explanation: The array represents the integer 4321.
+n = 8
+
+The coins can form the following rows:
+¤
+¤ ¤
+¤ ¤ ¤
+¤ ¤
+
+Because the 4th row is incomplete, we return 3.
 ```
 
-## 我的作法 (暴力解)
+## 我的作法
 
-使用for loop, 從最小的位數開始++ (為digits[digits.length-1]開始)，過程中遇到有9的, 將digits[i]++, 回傳結果；
+暴力解, 直接用for loop去計算每一行有多少, 每一回合就把n扣掉, 直到某回合的i比剩下的n還大, 那就找到答案了
 
-如果一直沒有的話，那就新增一個比digits長1的array, 在最大位數newArray[0] = 1, 回傳結果
+### code
 
-### Java
-
-#### 7/6 一刷
+> 7/6 一刷 大概5分鐘
 
 ```java=
 class Solution {
-    public int[] plusOne(int[] digits) {
-        int n = digits.length;
-        // 最小位數為digits的最後一個
-        for(int i=n-1; i>=0; i--) {
-            if(digits[i] < 9) {
-                digits[i]++;
-                return digits;
+    public int arrangeCoins(int n) {
+        int curTotal = 0;
+        
+        int i = 1;
+        while(true) {
+            if(i>n) {
+                return i-1;
             }
-            // 因為digits[i]=9 +1 後變成0, 下一回合的loop就會自動+1做進位
-            digits[i] =0;
+            
+            curTotal += i;
+            n -= i; // 扣掉已經被拿來排第n排數量(i)的coin
+            i++;
         }
-        //假如每一個回合都是9，那新增一個array, index=0放入1
-        int[] newArray = new int[n+1];
-        newArray[0] = 1;
-        return newArray;
     }
 }
 ```
 
-## 參考解答
-
-參考大神 rajmc: 
-https://leetcode.com/problems/arranging-coins/discuss/714510/Three-Solutions-or-Detailed-Explanation-or-Equation-AP-Quadratic-Explanation
+Time Complexity : O(n)
 
 
-### Binary Search方法
-
-由於
-1 + 2 + 3 + 4 + ... + k 亦等於 k(k+1)/2 必須要小於或等於 = n
-
-所以就可以用Binary Search來找出k是多少 (1 < k < n)
-
-### Math: 一元二次方程式方法
-
-可將 k(k+1)/2 < n 推導如下:
-
-![](https://i.imgur.com/qMzRZ38.png)

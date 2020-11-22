@@ -24,66 +24,80 @@
 
 ### Search
 
-* [441. Arranging Coins (easy)](https://leetcode.com/problems/arranging-coins/)
+| Index | Question Name                               | Type   | Note | C++ | Java | Go |
+|-------|---------------------------------------------|--------|------|-----|------|----|
+| 441    | Arranging Coins                                    | easy   | [link](https://github.com/a10000005588/Leetcode-2020/tree/master/Search/441_Arranging_Coins) |     | O    |    |
+| 528    | Random Pick with Weight                                    | easy   | [link](https://github.com/a10000005588/Leetcode-2020/tree/master/Search/528_Random_Pick_with_Weight) |     | O    |    |
 
-* [528. Random Pick with Weight (medium)](https://hackmd.io/r-7tWxAATWGHJlXPfsJ02Q)
+### LinkedList
 
-### LinedList
+| Index | Question Name                               | Type   | Note | C++ | Java | Go |
+|-------|---------------------------------------------|--------|------|-----|------|----|
+| 237    | Delete Node in a Linked List                                   | easy   | [link](https://github.com/a10000005588/Leetcode-2020/tree/master/LinkedList/237_Deleting_Node) |     | O    |    |
+| 707    | Design Linked List                                    | medium   | [link](https://github.com/a10000005588/Leetcode-2020/tree/master/LinkedList/707_Design_Linked_List) |     | O    |    |
 
-* [237. Delete Node in a Linked List (easy)](https://hackmd.io/-aoHxnY-S7mdNJDj81M23g)
-
-* [707. Design Linked List (medium)](https://hackmd.io/UMlzTY1HRlGye5hTphdadw)
 ### Sort
 
-* [973. K Closest Points to Origin (medium)](https://hackmd.io/pCRjB12MSXOsGpHilfV8-g)
+| Index | Question Name                               | Type   | Note | C++ | Java | Go |
+|-------|---------------------------------------------|--------|------|-----|------|----|
+| 973    | K Closest Points to Origin                                   | medium   | [link](https://github.com/a10000005588/Leetcode-2020/tree/master/Sort/973_K_Closest_Points_to_Point) |     | O    |    |
 
-### Tree
+### Depth First Search
 
-#### Depth First Search
+| Index | Question Name                               | Type   | Note | C++ | Java | Go |
+|-------|---------------------------------------------|--------|------|-----|------|----|
+| 129    | Sum Root to Leaf Numbers                                   | medium   | [link](https://github.com/a10000005588/Leetcode-2020/tree/master/DepthFirstSearch/129_Sum_Root_to_Leaf_Numbers) |     | O    |    |
 
-* [129. Sum Root to Leaf Numbers (medium)]()
+### Binary Tree
 
-#### Binary Tree
-
-* [563. Binary Tree Tilt (easy)](https://hackmd.io/1ax2tp9pTR2SSABl95CISg)
-
-#### Binary Search Tree
-
-* [230. Kth Smallest Element in a BST (easy)](https://hackmd.io/981zGlR5SV-hlPP7ibxj2A)
-
-#### 學習筆記
-
-[BST學習筆記](https://hackmd.io/zkKJ5BnGTbOf4ZNKgdHvXQ)
+| Index | Question Name                               | Type   | Note | C++ | Java | Go |
+|-------|---------------------------------------------|--------|------|-----|------|----|
+| 107    | Binary Tree Level Order Traversal II                                   | easy   | [link](https://github.com/a10000005588/Leetcode-2020/tree/master/BinaryTree/107_Binary_Tree_Level_Order_Traversal_II) |     | O    |    |
+| 230    | Kth Smallest Element in a BST                                   | easy   | [link](https://github.com/a10000005588/Leetcode-2020/tree/master/BinaryTree/230_Kth_Smallest_Element_in_a_BST) |     | O    |    |
+| 563    | Binary Tree Tilt                                   | easy   | [link](https://github.com/a10000005588/Leetcode-2020/tree/master/BinaryTree/563_Binary_Tree_Tilt) |     | O    |    |
 
 ### Greedy
 
-* [406. Queue Reconstruction by Height (medium)](https://hackmd.io/U8p50UAMQ7ijIld1k4AzBw)
+| Index | Question Name                               | Type   | Note | C++ | Java | Go |
+|-------|---------------------------------------------|--------|------|-----|------|----|
+| 406    | Queue Reconstruction by Height                                   | medium   | [link](https://github.com/a10000005588/Leetcode-2020/tree/master/Greedy/406_Queue_Reconstruction_By_Height) |     | O    |    |
+| 1029    | Two City Scheduling                                   | easy   | [link](https://github.com/a10000005588/Leetcode-2020/tree/master/Greedy/1029_Two_City_Scheduling) |     | O    |    |
 
-* [1029. Two City Scheduling (medium)](https://hackmd.io/7cDVe12sSgOWkJLvSTJlww)
 
 ### Dynamic Programming
 
-* [62. Unique Path (medium)](https://hackmd.io/bwYEpumkQRmFNHZbitGkBA)
+| Index | Question Name                               | Type   | Note | C++ | Java | Go |
+|-------|---------------------------------------------|--------|------|-----|------|----|
+| 62    | Unique Path                                   | medium   | [link](https://github.com/a10000005588/Leetcode-2020/tree/master/DP/62_Unique_Path) |     | O    |    |
+| 1277    | Count Square Submatrices with All Ones     | medium   | [link](https://github.com/a10000005588/Leetcode-2020/tree/master/DP/1277_Count_Square_Submatrices_with_All_Ones) |     | O    |    |
 
-* [1277. Count Square Submatrices with All Ones (medium)](https://hackmd.io/VEwIG0mwRBu8eEnt-Y-mnw)
 
 ### Two Pointers
 
-* [344. Reverse String (easy)](https://hackmd.io/r-7tWxAATWGHJlXPfsJ02Q)
+| Index | Question Name                               | Type   | Note | C++ | Java | Go |
+|-------|---------------------------------------------|--------|------|-----|------|----|
+| 344    | Reverse String                                   | easy   | [link](https://github.com/a10000005588/Leetcode-2020/tree/master/TwoPointers/344_Reverse_String) |     | O    |    |
+| 986    | Interval List Intersections     | medium   | [link](https://github.com/a10000005588/Leetcode-2020/tree/master/TwoPointers/986_Interval_List_Intersections) |     | O    |    |
 
-* [986. Interval List Intersections (medium)](https://hackmd.io/9IUtLR9JRyWkCODK8UGY2g)
 
 ### Hash Table
 
-* [451. Sort Characters By Frequency (medium)](https://hackmd.io/orIIXEBrSuuzfk0w-vfo6w)
-
+| Index | Question Name                               | Type   | Note | C++ | Java | Go |
+|-------|---------------------------------------------|--------|------|-----|------|----|
+| 451    | Sort Characters By Frequency                                   | medium   | [link](https://github.com/a10000005588/Leetcode-2020/tree/master/HashTable/451_Sort_Characters_By_Frequency) |     | O    |    |
 ### Bit Manipulation
 
-* [137. Single Number II (medium)](https://leetcode.com/problems/single-number-ii/)
+| Index | Question Name                               | Type   | Note | C++ | Java | Go |
+|-------|---------------------------------------------|--------|------|-----|------|----|
+| 137    | Single Number II                                   | medium   | [link](https://github.com/a10000005588/Leetcode-2020/tree/master/BitManipuation/137_Single_Number_II) |     | O    |    |
+
 
 ### Math
 
-* [858. Mirror Reflection (medium)]()
+| Index | Question Name                               | Type   | Note | C++ | Java | Go |
+|-------|---------------------------------------------|--------|------|-----|------|----|
+| 441    | Arrange Coin                               | medium   | [link](https://github.com/a10000005588/Leetcode-2020/tree/master/Math/441_Arrangeing_Coin) |     | O    |    |
+| 858    | Mirror Reflection                                    | medium   | [link](https://github.com/a10000005588/Leetcode-2020/tree/master/Math/858_Mirror_Reflection) |  O   |     |    |
 
 ## 如何高效率刷Leetcode
 
@@ -101,6 +115,10 @@ Tips:
   * 可以參考別人的解法，不要看別人的code
 * 每個題目只要有一個不差的解法，就可以通過了
 
+## 學習筆記
+### BST學習筆記
+
+(https://hackmd.io/zkKJ5BnGTbOf4ZNKgdHvXQ)
 ## 參考網站
 
 Leetcode網站

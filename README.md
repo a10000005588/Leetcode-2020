@@ -17,6 +17,7 @@
 |-------|---------------------------------------------|--------|------|-----|------|----|
 | 66    | Plus One                                    | easy   | [link](https://github.com/a10000005588/Leetcode-2020/tree/master/Array/66_Plus_One) |  O  | O    |    |
 | 287   | Find the Duplicate Number                   | medium | [link](https://github.com/a10000005588/Leetcode-2020/tree/master/Array/287_Find_the_Duplicate_Number) |  O   | O    |    |
+| 498   | Diagonal Traverse                   | medium | [link](https://github.com/a10000005588/Leetcode-2020/tree/master/Array/498_Diagonal_Traverse) |  O   | O    |    |
 | 509   | Fibonacci Number                            | easy   | [link](https://github.com/a10000005588/Leetcode-2020/tree/master/Array/509_Fibonacci_Number) |     | O    |    |
 | 724   | Find Pivot Index                            | easy   | [link](https://github.com/a10000005588/Leetcode-2020/tree/master/Array/724_Find_Pivot_Index) | O   |      |    |
 | 747   | Largest Number At Least Twice of Others                            | easy   | [link](https://github.com/a10000005588/Leetcode-2020/tree/master/Array/747_Largest_Number_At_Least_Twice_of_Others) | O   |      |    |

@@ -23,8 +23,15 @@ Output:  [1,2,4,7,5,3,6,8,9]
 
 ![pic](pics/498_Diagonal_Traverse.png)
 
+```
+大概想了1小時多
+```
 
 ### Cpp
+
+2020/12/12
+
+coding花了1小時半
 
 ```cpp=
 vector<int> findDiagonalOrder(vector<vector<int>>& matrix) {

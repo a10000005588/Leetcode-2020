@@ -18,6 +18,7 @@
 | 33    | Search in Rotated Sorted Array                                    | medium   | [link](https://github.com/a10000005588/Leetcode-2020/tree/master/Array/33_Search_in_Rotated_Sorted_Array) |  O  |     |    |
 | 54    | Spiral Matrix                                    | medium   | [link](https://github.com/a10000005588/Leetcode-2020/tree/master/Array/54_Spiral_Matrix) |  O  |     |    |
 | 66    | Plus One                                    | easy   | [link](https://github.com/a10000005588/Leetcode-2020/tree/master/Array/66_Plus_One) |  O  | O    |    |
+| 118    | Pascal's Triangle                        | easy   | [link](https://github.com/a10000005588/Leetcode-2020/tree/master/Array/118_Pascal_Trangle) |  O  | O    |    |
 | 287   | Find the Duplicate Number                   | medium | [link](https://github.com/a10000005588/Leetcode-2020/tree/master/Array/287_Find_the_Duplicate_Number) |  O   | O    |    |
 | 498   | Diagonal Traverse                   | medium | [link](https://github.com/a10000005588/Leetcode-2020/tree/master/Array/498_Diagonal_Traverse) |  O   |     |    |
 | 509   | Fibonacci Number                            | easy   | [link](https://github.com/a10000005588/Leetcode-2020/tree/master/Array/509_Fibonacci_Number) |     | O    |    |

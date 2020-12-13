@@ -78,14 +78,12 @@
 | 62    | Unique Path                                   | medium   | [link](https://github.com/a10000005588/Leetcode-2020/tree/master/DP/62_Unique_Path) |     | O    |    |
 | 1277    | Count Square Submatrices with All Ones     | medium   | [link](https://github.com/a10000005588/Leetcode-2020/tree/master/DP/1277_Count_Square_Submatrices_with_All_Ones) |     | O    |    |
 
-
 ### Two Pointers
 
 | Index | Question Name                               | Type   | Note | C++ | Java | Go |
 |-------|---------------------------------------------|--------|------|-----|------|----|
 | 344    | Reverse String                                   | easy   | [link](https://github.com/a10000005588/Leetcode-2020/tree/master/TwoPointers/344_Reverse_String) |     | O    |    |
 | 986    | Interval List Intersections     | medium   | [link](https://github.com/a10000005588/Leetcode-2020/tree/master/TwoPointers/986_Interval_List_Intersections) |     | O    |    |
-
 
 ### Hash Table
 
@@ -98,13 +96,19 @@
 |-------|---------------------------------------------|--------|------|-----|------|----|
 | 137    | Single Number II                                   | medium   | [link](https://github.com/a10000005588/Leetcode-2020/tree/master/BitManipuation/137_Single_Number_II) |     | O    |    |
 
-
 ### Math
 
 | Index | Question Name                               | Type   | Note | C++ | Java | Go |
 |-------|---------------------------------------------|--------|------|-----|------|----|
 | 441    | Arrange Coin                               | medium   | [link](https://github.com/a10000005588/Leetcode-2020/tree/master/Math/441_Arrangeing_Coin) |     | O    |    |
 | 858    | Mirror Reflection                                    | medium   | [link](https://github.com/a10000005588/Leetcode-2020/tree/master/Math/858_Mirror_Reflection) |  O   |     |    |
+
+### String 
+
+| Index | Question Name                               | Type   | Note | C++ | Java | Go | Comment|
+|-------|---------------------------------------------|--------|------|-----|------|----|---|
+| 67    | Add Binary                                   | easy   | [link](https://github.com/a10000005588/Leetcode-2020/tree/master/String/67_Add_Binary) |  O  |     |    | 此題也可以歸類成Math，我目前解法比較像是Two Pointer|
+
 
 ## 如何高效率刷Leetcode
 

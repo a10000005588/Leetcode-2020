@@ -1,4 +1,4 @@
-# 二元搜尋樹 Binary Search Tree筆記
+# 二元搜尋樹介紹 Binary Search Tree
 
 給一棵樹, 其特性要符合如下:
 

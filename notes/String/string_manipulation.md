@@ -1,4 +1,4 @@
-# 字串 String
+# 字串操作 String Manipuation
 
 字串由unicode characters組成，通常就透過 `array`來去遍歷string內容
 

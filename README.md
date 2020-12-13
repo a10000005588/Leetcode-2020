@@ -123,9 +123,13 @@ Tips:
 * 每個題目只要有一個不差的解法，就可以通過了
 
 ## 學習筆記
-### BST學習筆記
 
-(https://hackmd.io/zkKJ5BnGTbOf4ZNKgdHvXQ)
+### String & Array
+
+* [字串操作 String Manipuation](https://github.com/a10000005588/Leetcode-2020/blob/master/notes/String/string_manipulation.md)
+### Trees
+
+* [二元搜尋樹介紹 Binary Search Tree](https://github.com/a10000005588/Leetcode-2020/blob/master/notes/Tree/binary_serach_tree.md)
 ## 參考網站
 
 Leetcode網站

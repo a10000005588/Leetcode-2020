@@ -103,11 +103,11 @@
 | 441    | Arrange Coin                               | medium   | [link](https://github.com/a10000005588/Leetcode-2020/tree/master/Math/441_Arrangeing_Coin) |     | O    |    |
 | 858    | Mirror Reflection                                    | medium   | [link](https://github.com/a10000005588/Leetcode-2020/tree/master/Math/858_Mirror_Reflection) |  O   |     |    |
 
-### String 
+### String
 
 | Index | Question Name                               | Type   | Note | C++ | Java | Go | Comment|
 |-------|---------------------------------------------|--------|------|-----|------|----|---|
-| 67    | Add Binary                                   | easy   | [link](https://github.com/a10000005588/Leetcode-2020/tree/master/String/67_Add_Binary) |  O  |     |    | 此題也可以歸類成Math，我目前解法比較像是Two Pointer|
+| 67    | Add Binary                                   | easy   | [link](https://github.com/a10000005588/Leetcode-2020/tree/master/String/67_Add_Binary) |  O  |     |    | 此題也可以歸類成Math，但我目前解法比較像是Two Pointer|
 
 
 ## 如何高效率刷Leetcode

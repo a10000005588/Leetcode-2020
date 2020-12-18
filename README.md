@@ -107,6 +107,7 @@
 
 | Index | Question Name                               | Type   | Note | C++ | Java | Go | Comment|
 |-------|---------------------------------------------|--------|------|-----|------|----|---|
+| 14    | Longest Common Prefix                                   | easy   | [link](https://github.com/a10000005588/Leetcode-2020/tree/master/String/14_Longest_Common_Prefix) |  O  |     |  O  | |
 | 28    | Implement strStr                                   | easy   | [link](https://github.com/a10000005588/Leetcode-2020/tree/master/String/28_Implement_strStr) |  O  |     |  O  | |
 | 67    | Add Binary                                   | easy   | [link](https://github.com/a10000005588/Leetcode-2020/tree/master/String/67_Add_Binary) |  O  |     |    | 此題也可以歸類成Math，但我目前解法比較像是Two Pointer|
 ## 如何高效率刷Leetcode

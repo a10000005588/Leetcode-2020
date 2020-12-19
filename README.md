@@ -80,10 +80,13 @@
 
 ### Two Pointers
 
-| Index | Question Name                               | Type   | Note | C++ | Java | Go |
-|-------|---------------------------------------------|--------|------|-----|------|----|
-| 344    | Reverse String                                   | easy   | [link](https://github.com/a10000005588/Leetcode-2020/tree/master/TwoPointers/344_Reverse_String) | O | O | O |
-| 986    | Interval List Intersections     | medium   | [link](https://github.com/a10000005588/Leetcode-2020/tree/master/TwoPointers/986_Interval_List_Intersections) |     | O    |    |
+| Index | Question Name                               | Type   | Note | C++ | Java | Go | Comment |
+|-------|---------------------------------------------|--------|------|-----|------|----|-------|
+| 344    | Reverse String                                   | easy   | [link](https://github.com/a10000005588/Leetcode-2020/tree/master/TwoPointers/344_Reverse_String) | O | O | O | |
+| 561    | Array Partition I                                  | easy   | [link](https://github.com/a10000005588/Leetcode-2020/tree/master/TwoPointers/561_Array_Partition) | O |  |  | 有使用c++ sort()函式，可用QuickSort來優化解法|
+| 986    | Interval List Intersections     | medium   | [link](https://github.com/a10000005588/Leetcode-2020/tree/master/TwoPointers/986_Interval_List_Intersections) |     | O    |    | |
+
+
 
 ### Hash Table
 

@@ -42,4 +42,29 @@ Time Comlexity: O(N)
 
 Space Complexity: O(1)
 
+### Cpp
 
+```cpp=
+void reverseString(vector<char>& s) {
+    int backwardIndex = s.size() - 1;
+    for (vector<char>::size_type i=0; i< (s.size()/2); ++i) {
+        char temp = s[i];
+        s[i] = s[backwardIndex];
+        s[backwardIndex] = temp;
+        --backwardIndex;
+    }
+}
+```
+
+### Go
+
+```go=
+func reverseString(s string) string {
+	x := []byte(s)
+
+	for i := 0; i < len(s)/2; i++ {
+		x[i], x[(len(s)-1)-i] = x[(len(s)-1)-i], x[i]
+	}
+	return string(x[:])
+}
+```

@@ -84,7 +84,8 @@
 |-------|---------------------------------------------|--------|------|-----|------|----|-------|
 | 27    | Remove Element                              | easy   | [link](https://github.com/a10000005588/Leetcode-2020/tree/master/TwoPointers/27_Remove_Element) | O | O |  | 2019年曾用java寫過, 2020重複寫這題時，沒有一開始想到要用two pointer technique |
 | 167    | Two Sum II                                 | easy   | [link](https://github.com/a10000005588/Leetcode-2020/tree/master/TwoPointers/167_Two_Sum_II) | O | O |  | 這題雖然easy, 但沒有善用two pointer技巧容易遇到Time Limited的狀況！ |
-| 344    | Reverse String                                   | easy   | [link](https://github.com/a10000005588/Leetcode-2020/tree/master/TwoPointers/344_Reverse_String) | O | O | O | |
+| 344    | Reverse String                                   | easy   | [link](https://github.com/a10000005588/Leetcode-2020/tree/master/TwoPointers/344_Reverse_String) |  |  | O | |
+| 485    | Max Consecutive Ones                                   | easy   | [link](https://github.com/a10000005588/Leetcode-2020/tree/master/TwoPointers/485_Max_Consecutive_Ones) | O | O | O | |
 | 561    | Array Partition I                                  | easy   | [link](https://github.com/a10000005588/Leetcode-2020/tree/master/TwoPointers/561_Array_Partition) | O |  |  | 有使用c++ sort()函式，可用QuickSort來優化解法|
 | 986    | Interval List Intersections     | medium   | [link](https://github.com/a10000005588/Leetcode-2020/tree/master/TwoPointers/986_Interval_List_Intersections) |     | O    |    | |
 

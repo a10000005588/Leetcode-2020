@@ -19,7 +19,7 @@
 | 54    | Spiral Matrix                                    | medium   | [link](https://github.com/a10000005588/Leetcode-2020/tree/master/Array/54_Spiral_Matrix) |  O  |     |    ||
 | 66    | Plus One                                    | easy   | [link](https://github.com/a10000005588/Leetcode-2020/tree/master/Array/66_Plus_One) |  O  | O    |    ||
 | 118    | Pascal's Triangle                        | easy   | [link](https://github.com/a10000005588/Leetcode-2020/tree/master/Array/118_Pascal_Trangle) |  O  | O    |    ||
-| 189    | Rotate Array                        | medium   | [link](https://github.com/a10000005588/Leetcode-2020/tree/master/Array/189_Rotate_Array) |  O  | O    |    ||
+| 189    | Rotate Array                        | medium   | [link](https://github.com/a10000005588/Leetcode-2020/tree/master/Array/189_Rotate_Array) |  O  | O    |    | 此題建議用O(1) extra space來解，目前是用了O(n) extra space & O(n) Time Complexity解此題目|
 | 287   | Find the Duplicate Number                   | medium | [link](https://github.com/a10000005588/Leetcode-2020/tree/master/Array/287_Find_the_Duplicate_Number) |  O   | O    |    ||
 | 498   | Diagonal Traverse                   | medium | [link](https://github.com/a10000005588/Leetcode-2020/tree/master/Array/498_Diagonal_Traverse) |  O   |     |    ||
 | 509   | Fibonacci Number                            | easy   | [link](https://github.com/a10000005588/Leetcode-2020/tree/master/Array/509_Fibonacci_Number) |     | O    |    ||

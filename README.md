@@ -20,6 +20,7 @@
 | 66    | Plus One                                    | easy   | [link](https://github.com/a10000005588/Leetcode-2020/tree/master/Array/66_Plus_One) |  O  | O    |    ||
 | 118    | Pascal's Triangle                        | easy   | [link](https://github.com/a10000005588/Leetcode-2020/tree/master/Array/118_Pascal_Trangle) |  O  | O    |    ||
 | 119    | Pascal's Triangle II                       | easy   | [link](https://github.com/a10000005588/Leetcode-2020/tree/master/Array/118_Pascal_Trangle) |   |     |  O  | 要滿足只用一個array大小空間 O(k) k為input大小 來完成，須具備backtracking概念|
+| 151    | Reverse Words in a String                  | medium   | [link](https://github.com/a10000005588/Leetcode-2020/tree/master/Array/151_Reverse_Words_in_a_String) |   |     |  O  | 這題有點算是easy的程度, 目前解法為O(n^2)的時間複雜度就能解出來了，待研究 |
 | 189    | Rotate Array                        | medium   | [link](https://github.com/a10000005588/Leetcode-2020/tree/master/Array/189_Rotate_Array) |  O  | O    |    | 此題建議用O(1) extra space來解，目前是用了O(n) extra space & O(n) Time Complexity解此題目|
 | 287   | Find the Duplicate Number                   | medium | [link](https://github.com/a10000005588/Leetcode-2020/tree/master/Array/287_Find_the_Duplicate_Number) |  O   | O    |    ||
 | 498   | Diagonal Traverse                   | medium | [link](https://github.com/a10000005588/Leetcode-2020/tree/master/Array/498_Diagonal_Traverse) |  O   |     |    ||

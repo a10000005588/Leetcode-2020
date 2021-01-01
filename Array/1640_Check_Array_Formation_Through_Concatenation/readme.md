@@ -173,10 +173,15 @@ func findMatchPos(arrStr string, piece string) (int, bool) {
 ## 我的作法 version 3 (fail)
 
 Submission Detail
+
 64 / 82 test cases passed.
+
 Status: Wrong Answer
+
 Submitted: 0 minutes ago
+
 Input:
+
 ```
 [2,74,86,25,20,19,87,98,55,94,58,47,56,28,50,51,54,14,79,72,23,48]
 [[55],[87,98],[94,58,47],[54,14],[20,19],[28],[72],[23],[48],[79],[2],[50],[86],[56],[25],[74],[51]]

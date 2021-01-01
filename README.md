@@ -31,7 +31,7 @@
 | 747   | Largest Number At Least Twice of Others                            | easy   | [link](https://github.com/a10000005588/Leetcode-2020/tree/master/Array/747_Largest_Number_At_Least_Twice_of_Others) | O   |      |    ||
 | 1464  | Maximum Product of Two Elements in an Array | easy   | [link](https://github.com/a10000005588/Leetcode-2020/tree/master/Array/1464_Maximum_Product_of_Two_Elements_in_an_array) |     | O    |    ||
 | 1480  | Running Sum of 1d Array                     | easy   | [link](https://github.com/a10000005588/Leetcode-2020/tree/master/Array/1480_Running_Sum_of_1D_Array) |     | O    |    ||
-| 1640  | Check Array Formation Through Concatenation  | easy   | [link](https://github.com/a10000005588/Leetcode-2020/tree/master/Array/1640_Check_Array_Formation_Through_Concatenation) |     |     |  O  |目前用golang的解法佔據太多space空間，待優化|
+| 1640  | Check Array Formation Through Concatenation  | easy   | [link](https://github.com/a10000005588/Leetcode-2020/tree/master/Array/1640_Check_Array_Formation_Through_Concatenation) |     |     |  O  |此題為Leetcode Challenge 2020/Janunary 題目，目前用golang的解法佔據太多space空間，待優化|
 
 
 ### Search

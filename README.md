@@ -22,6 +22,7 @@
 | 119    | Pascal's Triangle II                       | easy   | [link](https://github.com/a10000005588/Leetcode-2020/tree/master/Array/118_Pascal_Trangle) |   |     |  O  | 要滿足只用一個array大小空間 O(k) k為input大小 來完成，須具備backtracking概念|
 | 151    | Reverse Words in a String                  | medium   | [link](https://github.com/a10000005588/Leetcode-2020/tree/master/Array/151_Reverse_Words_in_a_String) |   |     |  O  | 這題有點算是easy的程度, 目前解法為O(n^2)的時間複雜度就能解出來了，待研究 |
 | 189    | Rotate Array                        | medium   | [link](https://github.com/a10000005588/Leetcode-2020/tree/master/Array/189_Rotate_Array) |  O  | O    |    | 此題建議用O(1) extra space來解，目前是用了O(n) extra space & O(n) Time Complexity解此題目|
+| 283   | Move Zeroes                   | easy | [link](https://github.com/a10000005588/Leetcode-2020/tree/master/Array/283_Move_Zeroes) |     |     |  O  ||
 | 287   | Find the Duplicate Number                   | medium | [link](https://github.com/a10000005588/Leetcode-2020/tree/master/Array/287_Find_the_Duplicate_Number) |  O   | O    |    ||
 | 498   | Diagonal Traverse                   | medium | [link](https://github.com/a10000005588/Leetcode-2020/tree/master/Array/498_Diagonal_Traverse) |  O   |     |    ||
 | 509   | Fibonacci Number                            | easy   | [link](https://github.com/a10000005588/Leetcode-2020/tree/master/Array/509_Fibonacci_Number) |     | O    |    ||
@@ -86,6 +87,7 @@
 
 | Index | Question Name                               | Type   | Note | C++ | Java | Go | Comment |
 |-------|---------------------------------------------|--------|------|-----|------|----|-------|
+| 26    | Remove Duplicates from Sorted Array                            | easy   | [link](https://github.com/a10000005588/Leetcode-2020/tree/master/TwoPointers/26_Remove_Duplicates_from_Sorted_Array) | O |  | O | 使用golang沒用到two pointer, java的版本有使用到 |
 | 27    | Remove Element                              | easy   | [link](https://github.com/a10000005588/Leetcode-2020/tree/master/TwoPointers/27_Remove_Element) | O | O |  | 2019年曾用java寫過, 2020重複寫這題時，沒有一開始想到要用two pointer technique |
 | 167    | Two Sum II                                 | easy   | [link](https://github.com/a10000005588/Leetcode-2020/tree/master/TwoPointers/167_Two_Sum_II) | O | O |  | 這題雖然easy, 但沒有善用two pointer技巧容易遇到Time Limited的狀況！ |
 | 209    | Minimum Size Subarray Sum | medium   | [link](https://github.com/a10000005588/Leetcode-2020/tree/master/TwoPointers/485_Max_Consecutive_Ones) |  |  | O | 值得再嘗試的題目，使用Two Pointer技巧才能夠達成O(n) |

@@ -60,13 +60,14 @@
 |-------|---------------------------------------------|--------|------|-----|------|----|
 | 129    | Sum Root to Leaf Numbers                                   | medium   | [link](https://github.com/a10000005588/Leetcode-2020/tree/master/DepthFirstSearch/129_Sum_Root_to_Leaf_Numbers) |     | O    |    |
 
-### Binary Tree
+### Tree
 
 | Index | Question Name                               | Type   | Note | C++ | Java | Go |
 |-------|---------------------------------------------|--------|------|-----|------|----|
-| 107    | Binary Tree Level Order Traversal II                                   | easy   | [link](https://github.com/a10000005588/Leetcode-2020/tree/master/BinaryTree/107_Binary_Tree_Level_Order_Traversal_II) |     | O    |    |
-| 230    | Kth Smallest Element in a BST                                   | easy   | [link](https://github.com/a10000005588/Leetcode-2020/tree/master/BinaryTree/230_Kth_Smallest_Element_in_a_BST) |     | O    |    |
-| 563    | Binary Tree Tilt                                   | easy   | [link](https://github.com/a10000005588/Leetcode-2020/tree/master/BinaryTree/563_Binary_Tree_Tilt) |     | O    |    |
+| 107    | Binary Tree Level Order Traversal II                                   | easy   | [link](https://github.com/a10000005588/Leetcode-2020/tree/master/Tree/107_Binary_Tree_Level_Order_Traversal_II) |     | O    |    |
+| 230    | Kth Smallest Element in a BST                                   | easy   | [link](https://github.com/a10000005588/Leetcode-2020/tree/master/Tree/230_Kth_Smallest_Element_in_a_BST) |     | O    |    |
+| 563    | Binary Tree Tilt                                   | easy   | [link](https://github.com/a10000005588/Leetcode-2020/tree/master/Tree/563_Binary_Tree_Tilt) |     | O    |    |
+| 1379    | Find a Corresponding Node of a Binary Tree in a Clone of That Tree                                   | medium   | [link](https://github.com/a10000005588/Leetcode-2020/tree/master/Tree/563_Binary_Tree_Tilt) |     | O    |    |
 
 ### Greedy
 

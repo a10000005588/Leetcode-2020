@@ -86,6 +86,182 @@ Runtime: 5 ms
 Memory Usage: 59.7 MB
 ```
 
+
+### Golang
+
+嘗試用golang解dfs, 但一樣遇到leetcode上面若用global variable儲存當前最小高度，會發生不同測資會覆蓋掉彼此的最小高度
+
+```go=
+/**
+ * Definition for a binary tree node.
+ * type TreeNode struct {
+ *     Val int
+ *     Left *TreeNode
+ *     Right *TreeNode
+ * }
+ */
+
+var minLength = 100000000000000
+
+func minDepth(root *TreeNode) int {
+
+    if root == nil {
+        return 0
+    }
+    
+    currLength := 0
+    dfs(root, currLength)
+    
+    return minLength
+}
+
+func dfs(root *TreeNode, curr int) {
+    if root == nil {
+        return
+    }
+    
+    curr += 1
+    
+    if root.Left == nil && root.Right == nil {
+        if minLength > curr {
+            minLength = curr
+        }
+    }
+    
+    if root.Left != nil {
+        dfs(root.Left, curr)
+    }
+    
+    if root.Right != nil {
+        dfs(root.Right, curr)
+    }
+}
+```
+
+> 該作法不建議使用
+
+### Golang 
+
+#### 參考作法
+
+參考[Discussion大神的解法](https://leetcode.com/problems/minimum-depth-of-binary-tree/discuss/519346/Go)，不透過global variable, 而是用回傳的方式來得到最小高度
+
+```go=
+func minDepth(root *TreeNode) int {
+    if root == nil {
+        return 0
+    }
+    if root.Left == nil && root.Right == nil {
+        return 1
+    }
+    if root.Left == nil {
+        return 1 + minDepth(root.Right)
+    }
+    if root.Right == nil {
+        return 1 + minDepth(root.Left)
+    }
+    return 1 + min(minDepth(root.Left), minDepth(root.Right))
+}
+func min(a int, b int) int {
+    if a < b {
+        return a
+    }
+    return b
+}
+```
+
+#### 自我再度挑戰用DFS沒有用global (錯誤)
+
+此版會有錯誤，以為第22~27行這邊，判斷說若root.Left 或 root.Right != nil, 就回傳自己那一邊的minDepth, 但這做法會有錯誤，因為會沒有比較到 另外一邊若不是 nil的高度
+```go=
+/**
+ * Definition for a binary tree node.
+ * type TreeNode struct {
+ *     Val int
+ *     Left *TreeNode
+ *     Right *TreeNode
+ * }
+ */
+
+func minDepth(root *TreeNode) int {
+    // 若目前root為nil 高度為0
+    if root == nil {
+        return 0
+    }
+    
+    // 若目前沒有子樹們，那就回傳1, 因為只有root自己
+    if root.Left == nil && root.Right == nil {
+        return 1
+    }
+    
+    // 若left child存在, 回傳1+minDepth(root.left) (自己 + 左子樹的最小高度)
+    if root.Left != nil {
+        return 1 + minDepth(root.Left)
+    }
+    
+    // 若right child存在, 回傳1+minDepth(root.left) (自己 + 右子樹的最小高度)
+    if root.Right != nil {
+        return 1 + minDepth(root.Right)
+    }
+
+    return 1+ min(minDepth(root.Left), minDepth(root.Right))
+}
+
+func min(x int, y int) int {
+    if x > y {
+        return y
+    }
+    return x
+}
+```
+
+#### 自我再度挑戰用DFS沒有用global (正確)
+
+```go=
+/**
+ * Definition for a binary tree node.
+ * type TreeNode struct {
+ *     Val int
+ *     Left *TreeNode
+ *     Right *TreeNode
+ * }
+ */
+
+func minDepth(root *TreeNode) int {
+    // 若目前root為nil 高度為0
+    if root == nil {
+        return 0
+    }
+    
+    // 若目前沒有子樹們，那就回傳1, 因為只有root自己
+    if root.Left == nil && root.Right == nil {
+        return 1
+    }
+    
+    // 若left child不存在, 回傳1+minDepth(root.right) (自己 + 右子樹的最小高度)
+    if root.Left == nil {
+        return 1 + minDepth(root.Right)
+    }
+    
+    // 若right child不存在, 回傳1+minDepth(root.left) (自己 + 左子樹的最小高度)
+    if root.Right == nil {
+        return 1 + minDepth(root.Left)
+    }
+
+    return 1+ min(minDepth(root.Left), minDepth(root.Right))
+}
+
+func min(x int, y int) int {
+    if x > y {
+        return y
+    }
+    return x
+}
+```
+```
+Runtime: 256 ms, faster than 39.08% of Go online submissions for Minimum Depth of Binary Tree.
+Memory Usage: 25.4 MB, less than 5.28% of Go online submissions for Minimum Depth of Binary Tree.
+```
 ## 朋友建議的解法 BFS
 
 先將root丟到 queue內，

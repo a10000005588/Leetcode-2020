@@ -65,7 +65,7 @@
 | Index | Question Name                               | Type   | Note | C++ | Java | Go | Comment |
 |-------|---------------------------------------------|--------|------|-----|------|----|-------|
 | 107    | Binary Tree Level Order Traversal II                                   | easy   | [link](https://github.com/a10000005588/Leetcode-2020/tree/master/Tree/107_Binary_Tree_Level_Order_Traversal_II) |     | O    |    | |
-| 111    | Minimum Depth of Binary Tree II                                   | easy   | [link](https://github.com/a10000005588/Leetcode-2020/tree/master/Tree/111_Minimum_Depth_of_Binary_Tree) |     | O    |    | |
+| 111    | Minimum Depth of Binary Tree II                                   | easy   | [link](https://github.com/a10000005588/Leetcode-2020/tree/master/Tree/111_Minimum_Depth_of_Binary_Tree) |     | O    |    | 此題可練習使用DFS與BFS的寫法，DFS為遞迴版本 (效率較差), BFS為iterative版本，效率較好|
 | 230    | Kth Smallest Element in a BST                                   | easy   | [link](https://github.com/a10000005588/Leetcode-2020/tree/master/Tree/230_Kth_Smallest_Element_in_a_BST) |     | O    |    ||
 | 563    | Binary Tree Tilt                                   | easy   | [link](https://github.com/a10000005588/Leetcode-2020/tree/master/Tree/563_Binary_Tree_Tilt) |     | O    |    ||
 | 1379    | Find a Corresponding Node of a Binary Tree in a Clone of That Tree                                   | medium   | [link](https://github.com/a10000005588/Leetcode-2020/tree/master/Tree/1379_Find_a_Corresponding_Node_of_a_Binary_Tree_in_a_Clone_of_That_Tree) | O    |     |    |此題為Leetcode Chanllenge 2021 Janunary day 2題目, 不過此題難度應該為easy才對|

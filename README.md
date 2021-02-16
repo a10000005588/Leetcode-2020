@@ -147,17 +147,16 @@ Tips:
 ### Trees
 
 * [二元搜尋樹介紹 Binary Search Tree](https://github.com/a10000005588/Leetcode-2020/blob/master/notes/Tree/binary_serach_tree.md)
-## 參考網站
+## 參考資源
 
-Leetcode網站
-https://leetcode.com/
+* Leetcode網站
+  * https://leetcode.com/
 
-Google面试經驗談-The Five Essential Phone-Screen Questions
-https://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions
+* Google面试經驗談-The Five Essential Phone-Screen Questions
+  * https://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions
 
-dingjikerbo/Leetcode-Java: 一位大陸牛人在Github上做Leetcode的紀錄
+* dingjikerbo/Leetcode-Java: 一位大陸神人在Github上做Leetcode的紀錄
+  * https://github.com/dingjikerbo/Leetcode-Java/blob/master/doc/Attention.md
 
-https://github.com/dingjikerbo/Leetcode-Java/blob/master/doc/Attention.md
-
-Mock interview的網站:
-https://leetcode.com/interview/
+* Mock interview的網站:
+  * https://leetcode.com/interview/

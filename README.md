@@ -92,7 +92,7 @@
 | Index | Question Name                               | Type   | Note | C++ | Java | Go | Comment |
 |-------|---------------------------------------------|--------|------|-----|------|----|-------|
 | 26    | Remove Duplicates from Sorted Array                            | easy   | [link](https://github.com/a10000005588/Leetcode-2020/tree/master/TwoPointers/26_Remove_Duplicates_from_Sorted_Array) | O |  | O | 使用golang沒用到two pointer, java的版本有使用到 |
-| 27    | Remove Element                              | easy   | [link](https://github.com/a10000005588/Leetcode-2020/tree/master/TwoPointers/27_Remove_Element) | O | O |  | 2019年曾用java寫過, 2020重複寫這題時，沒有一開始想到要用two pointer technique |
+| 27    | Remove Element            | easy   | [link](https://github.com/a10000005588/Leetcode-2020/tree/master/TwoPointers/27_Remove_Element) | O | O |  | 2019年曾用java寫過, 2020重複寫這題時，沒有一開始想到要用two pointer technique |
 | 167    | Two Sum II                                 | easy   | [link](https://github.com/a10000005588/Leetcode-2020/tree/master/TwoPointers/167_Two_Sum_II) | O | O |  | 這題雖然easy, 但沒有善用two pointer技巧容易遇到Time Limited的狀況！ |
 | 209    | Minimum Size Subarray Sum | medium   | [link](https://github.com/a10000005588/Leetcode-2020/tree/master/TwoPointers/485_Max_Consecutive_Ones) |  |  | O | 值得再嘗試的題目，使用Two Pointer技巧才能夠達成O(n) |
 | 344    | Reverse String                                   | easy   | [link](https://github.com/a10000005588/Leetcode-2020/tree/master/TwoPointers/344_Reverse_String) |  |  | O | |

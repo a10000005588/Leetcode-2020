@@ -84,8 +84,7 @@
 |-------|---------------------------------------------|--------|------|-----|------|----|
 | 62    | Unique Path                                   | medium   | [link](https://github.com/a10000005588/Leetcode-2020/tree/master/DP/62_Unique_Path) |     | O    |    |
 | 276    | Paint Fence     | easy   | [link](https://github.com/a10000005588/Leetcode-2020/tree/master/DP/276_Paint_Fence) |     | O    |  O  |
-| 300    | Longest Increasing Subsequence
-     | medium   | [link](https://github.com/a10000005588/Leetcode-2020/tree/master/DP/300_Longest_Increasing_Subsequence) |     | O    |   |
+| 300    | Longest Increasing Subsequence | medium   | [link](https://github.com/a10000005588/Leetcode-2020/tree/master/DP/300_Longest_Increasing_Subsequence) |     | O    |   |
 | 1277    | Count Square Submatrices with All Ones     | medium   | [link](https://github.com/a10000005588/Leetcode-2020/tree/master/DP/1277_Count_Square_Submatrices_with_All_Ones) |     | O    |    |
 
 ### Two Pointers

@@ -323,3 +323,68 @@ Runtime: 54 ms
 Memory Usage: 53.8 MB
 ```
 
+### Golang
+
+2021/02/16, about 2 tomatoes
+
+```go=
+/**
+ * Definition for a binary tree node.
+ * type TreeNode struct {
+ *     Val int
+ *     Left *TreeNode
+ *     Right *TreeNode
+ * }
+ */
+
+type pair struct {
+    node *TreeNode
+    height int
+}
+
+func minDepth(root *TreeNode) int {
+    // 若目前root為nil 高度為0
+    if root == nil {
+        return 0
+    }
+    
+    // 使用queue存放當前的root, 透過golang的slice來實作
+    queue := []pair{}
+    
+    // make a new pair for root
+    rootPair := pair{node: root, height: 1}
+    queue = append(queue, rootPair)
+    
+    for len(queue) != 0 {
+        element := queue[0]
+        elementNode := element.node
+        // 將取出來的elemenet去掉
+        queue = queue[1:]
+        
+        // 如果左右子樹都還有值，那就繼續找，將left, right塞進queue
+        if elementNode.Left == nil && elementNode.Right == nil {
+            return element.height
+        }
+        
+        if elementNode.Left != nil {
+            queue = push(queue, elementNode.Left, element.height)
+        }
+        
+        if elementNode.Right != nil {
+            queue = push(queue, elementNode.Right, element.height)
+        }
+    }
+    return 0
+}
+
+func push(queue []pair, root *TreeNode, currHeight int) []pair {
+    newElement := pair{node: root, height: currHeight + 1}
+    newQueue := append(queue, newElement)
+    return newQueue
+}
+```
+
+```
+Runtime: 212 ms, faster than 99.65% of Go online submissions for Minimum Depth of Binary Tree.
+Memory Usage: 18.1 MB, less than 98.24% of Go online submissions for Minimum Depth of Binary Tree.
+```

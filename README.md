@@ -1,13 +1,9 @@
 # Leetcode 練習記錄
 
 這個專案主要存放我練習Leetcode有針對難度分類的集合題庫(Collection Question)
-以及模擬面試(Mock interview)的程式碼
-
 ## 準備方式
 
-看了[知乎](https://www.zhihu.com/question/26580300)上面牛人們解題的策略，先分析tag的熱門標籤，熟悉各個標籤解題的思路(解決該標籤全部的easy和medium為主)，再根據各個標籤建立hackmd筆記，紀錄自己解決的過程。
-
-### 準備方式
+分析tag的熱門標籤，熟悉各個標籤解題的思路(解決該標籤全部的easy和medium為主)，再根據各個標籤建立hackmd筆記，紀錄自己解決的過程。
 
 ## 各類別題目筆記
 

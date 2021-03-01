@@ -128,7 +128,7 @@
 
 | Index | Question Name                               | Type   | Note | C++ | Java | Go | Comment|
 |-------|---------------------------------------------|--------|------|-----|------|----|---|
-| 346    | Moving Average from Data Stream            | easy   | [link](https://github.com/a10000005588/Leetcode-2020/tree/master/String/14_Longest_Common_Prefix) |    |     |  O  | 此題進階版的解法可用Double Ended Queue, 尚未嘗試，需補做此解法|
+| 346    | Moving Average from Data Stream            | easy   | [link](https://github.com/a10000005588/Leetcode-2020/blob/master/Queue/346_Moving_Average_from_Data_Stream/) |    |     |  O  | 此題進階版的解法可用Double Ended Queue, 尚未嘗試，需補做此解法|
 
 ## 如何高效率刷Leetcode
 
